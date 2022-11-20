@@ -1,1 +1,4 @@
 # Fynd-Project
+E-commerce is a business process over computer networks. 
+The main advantage of e-commerce over traditional trading is that users can browse online shops, compare prices and order goods from the comfort of their own home.
+To increase the use of e-commerce in developing countries, B2B e-commerce will be implemented to improve access to global markets for businesses in developing countries. Advances in e-commerce are essential for developing countries. Research strategies show the importance of e-commerce for business applications in developing countries.The project objective is to deliver the online shopping application.This project is an attempt to provide the advantages of online shopping to customers of a real shop. It helps buying the products in the shop anywhere through internet by using a web site.
